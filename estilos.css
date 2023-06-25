@@ -80,7 +80,6 @@ h2 {
 }
 
 /* Mostrar comentarios unidad 3 */
-
 .comentario {
   border: 1px solid #ccc;
   padding: 10px;
@@ -94,6 +93,23 @@ h2 {
 
 .comentario p {
   margin: 5px 0;
+}
+
+/* Productos unidad 7  */
+.caja_productos {
+  margin: 10px;
+  width: 95%;
+  float: left;
+  height: auto;
+  background-color: rgb(209, 234, 255);
+}
+.caja_carrito {
+  margin: 4px;
+  padding: 2px;
+  width: 95%;
+  float: left;
+  height: auto;
+  background-color: rgb(255, 218, 138);
 }
 /* Estuilo mostar datos de tabla */
 .calendario_clases {
